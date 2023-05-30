@@ -31,5 +31,5 @@ If you use this project, please cite:
 ## Code
 You can download the code using git:
 ```
-git clone https://github.com/newyorkfishmarket/2023-CCM-paper.git
+git clone https://github.com/KurtButler/2023-CCM-paper.git
 ```
