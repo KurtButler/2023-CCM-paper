@@ -7,8 +7,6 @@ This repo contains several functions that implement useful algorithms for studyi
 When the main file is run, it creates several files corresponding to tables and figures from the paper:
 - Figure 4: Basic demonstration of CCM.
 - Figure 5: Comparison of the surrogate data test for a deterministic signal vs a random one.
-- Figure 6: Comparison of distance, covariance, correlation and recurrence matrices.
-- Figure 7: Demonstration of the recurrence principle with a pair of sinusoids.
 - Figure 8: Histogram of CCM convergence coefficients for a Rossler-Lorenz system.
 - Table I: TBA
 
