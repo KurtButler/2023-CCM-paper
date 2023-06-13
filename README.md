@@ -8,7 +8,7 @@ When the main file is run, it creates several files corresponding to tables and 
 - Figure 4: Basic demonstration of CCM.
 - Figure 5: Comparison of the surrogate data test for a deterministic signal vs a random one.
 - Figure 8: Histogram of CCM convergence coefficients for a Rossler-Lorenz system.
-- Table I: TBA
+- Table I: Comparison of CCM results and the proposed test statistics for several test cases.
 
 ## Instructions
 To generate all figures (as .png files), you just need to run `main.m`. Also all the subfiles can be run independently.
