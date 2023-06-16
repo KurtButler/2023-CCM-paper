@@ -17,10 +17,6 @@ addpath('./Scripts')
 
 % Figure 5: Comparison of the surrogate data test for a deterministic signal vs a random one.
 
-% Figure 6: Comparison of distance, covariance, correlation and recurrence matrices.
-
-% Figure 7: Demonstration of the recurrence principle with a pair of sinusoids.
-
 % Figure 8: Histogram of CCM convergence coefficients for a Rossler-Lorenz system.
 Figure_8
 
