@@ -13,15 +13,18 @@ When the main file is run, it creates several files corresponding to tables and 
 - Figure 8: Histogram of CCM convergence coefficients for a Rossler-Lorenz system.
 - Table I: Comparison of CCM results and the proposed test statistics for several test cases.
 
-## Instructions
-To generate all figures (as .png files), you just need to run `main.m`. The code should run with no issues using Matlab 2022a or later. All generated figures and tables will be saved to the results folder. 
-
-## Code
+## Download
 You can download the code using git:
 ```
 git clone https://github.com/KurtButler/2023-CCM-paper.git
 ```
 Alternatively, you can view this code as a capsule on [Code Ocean](https://codeocean.com/capsule/8338092/tree/v1).
+
+## Instructions
+To generate all figures (as .png files), you just need to run `main.m`. The code should run with no issues using Matlab 2022a or later. All generated figures and tables will be saved to the results folder. 
+
+## Data
+In one of our experiments, we used the [ElectricityLoadDiagrams20112014](https://doi.org/10.24432/C58C86) data set from the UC Irvine Machine Learning Repository. The data was shared by Artur Trindade.
 
 ## Citation
 If you use any code or results from this project, please cite the orignal paper:
