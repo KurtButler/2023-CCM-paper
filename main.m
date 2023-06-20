@@ -32,7 +32,12 @@ System_K1
 System_K2
 System_K3
 System_K4
-System_E1
+% This system requires the Electricity Loads data set. See INSTRUCTIONS.md in the data folder.
+if exist('LD2011_2014.txt','file')
+  System_E1;
+else
+  disp('Electricity data set skipped.')
+end
 disp('Table I done.')
 
 
