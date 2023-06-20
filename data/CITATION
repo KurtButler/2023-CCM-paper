@@ -1,0 +1,6 @@
+We used the ElectricityLoadDiagrams20112014 data set from the UC Irvine Machine Learning Repository. This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license. This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
+
+The data is contained in LD2011_2014.txt.
+
+Citation:
+Trindade,Artur. (2015). ElectricityLoadDiagrams20112014. UCI Machine Learning Repository. https://doi.org/10.24432/C58C86.
