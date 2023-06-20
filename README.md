@@ -23,7 +23,9 @@ Alternatively, you can view this code as a capsule on [Code Ocean](https://codeo
 ## Instructions
 To generate all figures (as .png files), you just need to run `main.m`. The code should run with no issues using Matlab 2022a or later. All generated figures and tables will be saved to the results folder. 
 
-## Data
+If you wish to reproduce our results that used real data, you will need to download the data from the source. See `INSTRUCTIONS.md` in the data folder to see what you need.
+
+## Dataset
 In one of our experiments, we used the [ElectricityLoadDiagrams20112014](https://doi.org/10.24432/C58C86) data set from the UC Irvine Machine Learning Repository. The data was shared by Artur Trindade.
 
 ## Citation
