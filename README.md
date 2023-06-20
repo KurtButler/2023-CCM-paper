@@ -1,5 +1,5 @@
 # On Causal Discovery with Convergent Cross Mapping
-In this capsule, we provide code to reproduce the figures from our paper "[On Causal Discovery with Convergent Cross Mapping](https://doi.org/10.1109/TSP.2023.3286529)," published to IEEE Transactions on Signal Processing. 
+In this repository, we provide code to reproduce the figures from our paper "[On Causal Discovery with Convergent Cross Mapping](https://doi.org/10.1109/TSP.2023.3286529)," published to IEEE Transactions on Signal Processing. 
 
 > **Abstract:** Convergent cross mapping (CCM) is a principled causal discovery technique for signals, but its efficacy depends on a number of assumptions about the systems that generated the signals. We present a self-contained introduction to the theory of causality in state-space models, Takens’ theorem, and cross maps, and we propose conditions to check if a signal is appropriate for cross mapping. Further, we propose simple analyses based on Gaussian processes to test for these conditions in data. We show that our proposed techniques detect when convergent cross mapping may conclude erroneous results using several examples from the literature, and we comment on other considerations that are important when applying methods such as CCM.
 
