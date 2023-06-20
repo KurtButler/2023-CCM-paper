@@ -15,7 +15,8 @@ addpath('./results')
 addpath('./data')
 addpath('./scripts')
 
-
+%% Record to a log file
+diary './results/output.log'
 
 %% Turn this guy off
 % Sometimes, the surrogate signal analyses could trigger warnings from Matlab while training a GP for autoprediction with a random signal. I turned off warnings here to suppress these messages from flooding the log file.
@@ -68,6 +69,9 @@ Figure_8
 disp('Figure 8 done.')
 
 
+
+%% Stop recording to a log file
+diary 'off'
 
 
 
