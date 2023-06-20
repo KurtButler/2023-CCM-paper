@@ -10,9 +10,9 @@
 
 
 %% Set up the path
-addpath('./Functions')
-addpath('./Results')
-addpath('./Scripts')
+addpath('./functions')
+addpath('./results')
+addpath('./scripts')
 
 
 
