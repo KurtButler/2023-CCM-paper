@@ -71,5 +71,5 @@ end
 
 
 %% Save result
-saveas(gcf,sprintf('../results/Fig8.png',date));
+saveas(gcf,sprintf('./results/Fig8.png',date));
 
