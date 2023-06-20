@@ -107,10 +107,10 @@ for subplotno = 1:2
     %% Save result
     if subplotno==2
         sgtitle('Random signal')
-        saveas(gcf,sprintf('../results/Fig5b.png',date));
+        saveas(gcf,sprintf('./results/Fig5b.png',date));
         else
         sgtitle('Lorenz signal')
-        saveas(gcf,sprintf('../results/Fig5a.png',date));
+        saveas(gcf,sprintf('./results/Fig5a.png',date));
     end
 end
 

@@ -90,5 +90,5 @@ annotation("textbox",[0.8,0.9,0.1,0.1],'String',"(E)",'LineStyle','none','FontSi
 
 
 %% Save result
-saveas(gcf,sprintf('../results/Fig2.png',date));
+saveas(gcf,sprintf('./results/Fig2.png',date));
 

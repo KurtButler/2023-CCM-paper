@@ -63,6 +63,6 @@ legend('a\Rightarrowb','a\Rightarrowc','FontSize',15,'Location','northeast')
 
 
 %% Save result
-saveas(gcf,sprintf('../results/Fig4.png',date));
+saveas(gcf,sprintf('./results/Fig4.png',date));
 
 

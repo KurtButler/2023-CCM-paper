@@ -82,5 +82,5 @@ title('','Recurrence matrix $$\mathbf{R}$$','FontSize',15,'Interpreter','latex')
 
 
 %% Save result
-saveas(gcf,sprintf('../results/Fig6.png',date));
+saveas(gcf,sprintf('./results/Fig6.png',date));
 
