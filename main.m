@@ -12,6 +12,7 @@
 %% Set up the path
 addpath('./functions')
 addpath('./results')
+addpath('./data')
 addpath('./scripts')
 
 
