@@ -36,6 +36,10 @@ If you use any code or results from this project, please cite the orignal paper:
   author={Butler, Kurt and Feng, Guanchao and Djuri{\'c}, Petar M},
   journal={IEEE Transactions on Signal Processing},
   year={2023},
+  volume={71},
+  number={},
+  pages={2595-2607},
+  doi={10.1109/TSP.2023.3286529},
   publisher={IEEE}
 }
 ```
