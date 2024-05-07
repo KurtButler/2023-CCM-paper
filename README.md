@@ -26,7 +26,7 @@ To generate all figures (as .png files), you just need to run `main.m`. The code
 If you wish to reproduce our results that used real data, you will need to download the data from the source. See `INSTRUCTIONS.md` in the data folder to see what you need.
 
 ## Dataset
-In one of our experiments, we used the [ElectricityLoadDiagrams20112014](https://doi.org/10.24432/C58C86) data set from the UC Irvine Machine Learning Repository. The data was shared by Artur Trindade.
+In one of our experiments, we used the [ElectricityLoadDiagrams20112014](https://doi.org/10.24432/C58C86) data set from the UCI Machine Learning Repository. The data was donated by Artur Trindade at the University of Porto, Portugal.
 
 ## Citation
 If you use any code or results from this project, please cite the orignal paper:
